@@ -21,8 +21,9 @@ A SwiftUI application that explores Apple's ecosystem of frameworks through a mo
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="220"/>
-  <img src="screenshots/detail.png" width="220"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-06-09 at 18.48.51.png" width="220"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-06-09 at 18.51.58.png" width="220"/>
+  <img src="screenshots/framework-detail.png" width="220"/>
 </p>
 
 ## Architecture
